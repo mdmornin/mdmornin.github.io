@@ -8,6 +8,7 @@ I will be graduating no-later than the Spring of 2023 and I am currently on the 
 
 ## Papers
 [Curriculum Vitae](https://github.com/mdmornin/mitchellmorningstar.github.io/blob/master/morningstar_cv.pdf)
+
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=1_xcH-sAAAAJ)
 
 **Morningstar, M. D.**, Barnett, W. H., Goodlett, C. R., Kuznetsov, A., & Lapish, C. C. (2021). Understanding ethanol's acute effects on medial prefrontal cortex neural activity using state-space approaches. _Neuropharmacology_, 198, 108780. 
