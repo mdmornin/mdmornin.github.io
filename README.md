@@ -5,10 +5,9 @@ I am a graduate student at IUPUI interested in how alcohol affects cognition. Br
 
 I will be graduating no-later than the Spring of 2023 and I am currently on the market for post doctoral positions. An updated CV can be found here [here](https://github.com/mdmornin/mitchellmorningstar.github.io/blob/master/morningstar_cv.pdf) and an NIH Biosketch can be found [here](https://github.com/mdmornin/mitchellmorningstar.github.io/blob/master/Morningstar_NIHBiosketch.pdf).
 
-## CV 
-[CV](https://github.com/mdmornin/mitchellmorningstar.github.io/blob/master/morningstar_cv.pdf)
 
 ## Papers
+[Curriculum Vitae](https://github.com/mdmornin/mitchellmorningstar.github.io/blob/master/morningstar_cv.pdf)
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=1_xcH-sAAAAJ)
 
 **Morningstar, M. D.**, Barnett, W. H., Goodlett, C. R., Kuznetsov, A., & Lapish, C. C. (2021). Understanding ethanol's acute effects on medial prefrontal cortex neural activity using state-space approaches. _Neuropharmacology_, 198, 108780. 
