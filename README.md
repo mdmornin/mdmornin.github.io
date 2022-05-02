@@ -7,7 +7,7 @@ I am a graduate student at IUPUI interested in how alcohol affects cognition. Br
 I will be graduating no-later than the Spring of 2023 and I am currently on the market for post doctoral positions. An updated CV can be found here [here](https://github.com/mdmornin/mitchellmorningstar.github.io/blob/master/morningstar_cv.pdf) and an NIH Biosketch can be found [here](https://github.com/mdmornin/mitchellmorningstar.github.io/blob/master/Morningstar_NIHBiosketch.pdf).
 
 ### CV 
-**[CV]**(https://github.com/mdmornin/mitchellmorningstar.github.io/blob/master/morningstar_cv.pdf)
+[CV](https://github.com/mdmornin/mitchellmorningstar.github.io/blob/master/morningstar_cv.pdf)
 
 ### Papers
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=1_xcH-sAAAAJ)
