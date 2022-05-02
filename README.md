@@ -1,4 +1,3 @@
-![Self](https://github.com/mdmornin/mdmornin.github.io/blob/master/assets/1517452619799.jpg)
 
 ## About Me
 
