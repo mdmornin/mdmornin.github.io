@@ -1,4 +1,4 @@
-![Me](assets/1517452619799.jpg)
+![Me](assets/Self.jpg)
 ## About Me
 
 I am a graduate student at IUPUI interested in how alcohol affects cognition. Broadly, I hope to utilize cutting-edge in vivo electrophysiology recording techniques and analysis methods to further our understanding of how acute alcohol intoxication affects decision making, memory, and inhibition. 
@@ -17,12 +17,12 @@ De Falco, E, White, SM, **Morningstar, M.D.**, et al. (2021), Impaired cognitive
 
 **Morningstar, M.D.**, Linsenbardt, D.N. and Lapish, C.C. (2020), Ethanol Alters Variability, But Not Rate, of Firing in Medial Prefrontal Cortex Neurons of Awake‐Behaving Rats. Alcohol Clin Exp Res. 
 
-Keesom SM, <b>Morningstar M.D.</b>, Sandlain R, Wise BM, Hurley LM. (2018). Social isolation reduces serotonergic fiber density in the inferior colliculus of female, but not male, mice. Brain Research. 
+Keesom SM, **Morningstar M.D.**, Sandlain R, Wise BM, Hurley LM. (2018). Social isolation reduces serotonergic fiber density in the inferior colliculus of female, but not male, mice. Brain Research. 
 
 ## Contact me
 [Twitter](https://twitter.com/neuromorning)
 
-<b>Email:</b> mdmornin AT iu dot edu
+**Email:** mdmornin AT iu dot edu
 
 [ResearchGate](https://www.researchgate.net/profile/Mitchell-Morningstar)
 
