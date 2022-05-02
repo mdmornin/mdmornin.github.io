@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Papers"
 permalink: /Papers/
+---
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=1_xcH-sAAAAJ)
 
