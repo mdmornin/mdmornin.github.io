@@ -1,4 +1,4 @@
-![Me](/mdmornin.github.io/assets/1517452619799.jpg)
+![Me](https://github.com/mdmornin/mdmornin.github.io/blob/master/assets/1517452619799.jpg)
 ## About Me
 
 I am a graduate student at IUPUI interested in how alcohol affects cognition. Broadly, I hope to utilize cutting-edge in vivo electrophysiology recording techniques and analysis methods to further our understanding of how acute alcohol intoxication affects decision making, memory, and inhibition. 
