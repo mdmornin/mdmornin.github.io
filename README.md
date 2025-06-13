@@ -7,7 +7,7 @@ An updated CV can be found here [here](https://github.com/mdmornin/mdmornin.gith
 
 
 ## Papers
-[Curriculum Vitae](https://github.com/mdmornin/mitchellmorningstar.github.io/blob/master/morningstar_cv.pdf)
+[Curriculum Vitae](https://github.com/mdmornin/mdmornin.github.io/blob/master/morningstarCV_2025.pdf)
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=1_xcH-sAAAAJ)
 
