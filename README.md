@@ -1,7 +1,7 @@
 ![Me](assets/Self.jpg)
 ## About Me
 
-I am a postdoctoral fellow at the University of New Mexico Health Science Campus and I am interested in how alcohol affects cognition. Broadly, I hope to utilize cutting-edge in vivo electrophysiology recording techniques and analysis methods to further our understanding of how acute alcohol intoxication affects decision making, memory, and inhibition. 
+I am a postdoctoral fellow at the University of New Mexico Health Science Campus and I am interested in how alcohol affects cognition. Broadly, I hope to utilize cutting-edge in vivo electrophysiology recording techniques and analysis methods to further our understanding of how alcohol affects decision making, memory, and inhibition. 
 
 An updated CV can be found here [here](https://github.com/mdmornin/mdmornin.github.io/blob/master/morningstarCV_2025.pdf) and an NIH Biosketch can be found [here](https://github.com/mdmornin/mitchellmorningstar.github.io/blob/master/Morningstar_NIHBiosketch.pdf).
 
@@ -10,6 +10,10 @@ An updated CV can be found here [here](https://github.com/mdmornin/mdmornin.gith
 [Curriculum Vitae](https://github.com/mdmornin/mdmornin.github.io/blob/master/morningstarCV_2025.pdf)
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=1_xcH-sAAAAJ)
+
+Bryant, K. G., Swygart, D., Yin, Y., Bauer, M. R., **Morningstar, M. D.**, Timme, N. M., Barnett, W. H., McGonigle, C. E., Engleman, E. A., Sheets, P. L., & Lapish, C. C. (2025). Acute alcohol in prefrontal cortex is characterized by enhanced inhibition that transitions to excitation. iScience, 28(7), 112920. https://doi.org/10.1016/j.isci.2025.112920
+
+**Morningstar, M. D.**, Acosta, G., Valenzuela, C. F., Clark, B. J., & Linsenbardt, D. N. (2025). Unsupervised Phenotyping Reveals Disrupted Neural Firing Characteristics in the Anterior Thalamus and Surrounding Brain Regions Following Third-Trimester Equivalent Alcohol Exposure in Mice. bioRxiv : the preprint server for biology, 2025.06.02.657410. https://doi.org/10.1101/2025.06.02.657410
 
 Ardinger, C. E., **Morningstar, M. D.**, Lapish, C. C., & Linsenbardt, D. N. (2025). Repeated alcohol drinking in mice is associated with bidirectional alterations in corticostriatal coherence. Neuropharmacology, 277, 110522. Advance online publication. https://doi.org/10.1016/j.neuropharm.2025.110522 
 
