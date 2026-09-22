@@ -11,7 +11,7 @@ An updated CV can be found here [here](https://github.com/mdmornin/mdmornin.gith
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=1_xcH-sAAAAJ)
 
-**Morningstar, M. D.** et al. Large-scale in vivo electrophysiology analysis reveals opposing thalamic and hippocampal excitability after third-trimester-equivalent alcohol exposure in mice. Journal of Neurophysiology 136, 1171–1182 (2026).
+**Morningstar, M. D.** et al. Large-scale in vivo electrophysiology analysis reveals opposing thalamic and hippocampal excitability after third-trimester-equivalent alcohol exposure in mice. Journal of Neurophysiology 136, 1171–1182 (2026). https://doi.org/10.1152/jn.00189.2026
 
 Bryant, K. G., Swygart, D., Yin, Y., Bauer, M. R., **Morningstar, M. D.**, Timme, N. M., Barnett, W. H., McGonigle, C. E., Engleman, E. A., Sheets, P. L., & Lapish, C. C. (2025). Acute alcohol in prefrontal cortex is characterized by enhanced inhibition that transitions to excitation. iScience, 28(7), 112920. https://doi.org/10.1016/j.isci.2025.112920
 
