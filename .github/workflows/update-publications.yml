@@ -1,0 +1,58 @@
+name: Update publications
+
+on:
+  schedule:
+    - cron: "17 7 * * 1"   # Mondays, 07:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - scripts/update_publications.py
+      - data/publications_overrides.json
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: update-publications
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch publications from OpenAlex
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
+        run: python scripts/update_publications.py
+
+      - name: Commit changes
+        id: commit
+        run: |
+          if git diff --quiet -- index.html data/; then
+            echo "No publication changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html data/publications.json
+          git commit -m "Update publications from OpenAlex"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      # Pushes made with GITHUB_TOKEN don't always trigger a Pages rebuild.
+      - name: Request Pages build
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"

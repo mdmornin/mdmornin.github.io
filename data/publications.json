@@ -1,0 +1,685 @@
+{
+  "updated": "2026-10-18",
+  "source": "OpenAlex",
+  "author": {
+    "orcid": "0000-0002-3847-192X",
+    "openalex": "A5070682181"
+  },
+  "metrics": {
+    "publications": 11,
+    "preprints": 1,
+    "first_author": 6,
+    "citations": 117,
+    "h_index": 6,
+    "i10_index": 3
+  },
+  "publications": [
+    {
+      "id": "W7203775281",
+      "doi": "10.1152/jn.00189.2026",
+      "title": "Large-scale in vivo electrophysiology analysis reveals opposing thalamic and hippocampal excitability after third-trimester-equivalent alcohol exposure in mice",
+      "date": "2026-08-19",
+      "year": 2026,
+      "type": "article",
+      "venue": "Journal of Neurophysiology",
+      "volume": "136",
+      "issue": "3",
+      "pages": "1171–1182",
+      "authors": [
+        {
+          "name": "Morningstar MD",
+          "self": true
+        },
+        {
+          "name": "Acosta G",
+          "self": false
+        },
+        {
+          "name": "McKenzie S",
+          "self": false
+        },
+        {
+          "name": "Valenzuela CF",
+          "self": false
+        },
+        {
+          "name": "Clark BJ",
+          "self": false
+        },
+        {
+          "name": "Linsenbardt DN",
+          "self": false
+        }
+      ],
+      "first_author": true,
+      "co_first": false,
+      "cited_by": 1,
+      "oa_url": "https://doi.org/10.1152/jn.00189.2026",
+      "url": "https://doi.org/10.1152/jn.00189.2026",
+      "preprint": "https://doi.org/10.1101/2025.06.02.657410",
+      "links": [],
+      "type_label": "Article"
+    },
+    {
+      "id": "W4411372910",
+      "doi": "10.1016/j.isci.2025.112920",
+      "title": "Acute alcohol in prefrontal cortex is characterized by enhanced inhibition that transitions to excitation",
+      "date": "2025-06-17",
+      "year": 2025,
+      "type": "article",
+      "venue": "iScience",
+      "volume": "28",
+      "issue": "7",
+      "pages": "112920",
+      "authors": [
+        {
+          "name": "Bryant KG",
+          "self": false
+        },
+        {
+          "name": "Swygart DI",
+          "self": false
+        },
+        {
+          "name": "Yin Y",
+          "self": false
+        },
+        {
+          "name": "Bauer MR",
+          "self": false
+        },
+        {
+          "name": "Morningstar MD",
+          "self": true
+        },
+        {
+          "name": "Timme NM",
+          "self": false
+        },
+        {
+          "name": "Barnett WH",
+          "self": false
+        },
+        {
+          "name": "McGonigle CE",
+          "self": false
+        },
+        {
+          "name": "Engleman EA",
+          "self": false
+        },
+        {
+          "name": "Sheets PL",
+          "self": false
+        },
+        {
+          "name": "Lapish CC",
+          "self": false
+        }
+      ],
+      "first_author": false,
+      "co_first": false,
+      "cited_by": 5,
+      "oa_url": "https://doi.org/10.1016/j.isci.2025.112920",
+      "url": "https://doi.org/10.1016/j.isci.2025.112920",
+      "preprint": null,
+      "links": [],
+      "type_label": "Article"
+    },
+    {
+      "id": "W4410461950",
+      "doi": "10.1016/j.neuropharm.2025.110522",
+      "title": "Repeated alcohol drinking in mice is associated with bidirectional alterations in corticostriatal coherence",
+      "date": "2025-05-17",
+      "year": 2025,
+      "type": "article",
+      "venue": "Neuropharmacology",
+      "volume": "277",
+      "issue": null,
+      "pages": "110522",
+      "authors": [
+        {
+          "name": "Ardinger CE",
+          "self": false
+        },
+        {
+          "name": "Morningstar MD",
+          "self": true
+        },
+        {
+          "name": "Lapish CC",
+          "self": false
+        },
+        {
+          "name": "Linsenbardt DN",
+          "self": false
+        }
+      ],
+      "first_author": false,
+      "co_first": false,
+      "cited_by": 2,
+      "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2024/03/08/2024.03.07.581791.full.pdf",
+      "url": "https://doi.org/10.1016/j.neuropharm.2025.110522",
+      "preprint": null,
+      "links": [],
+      "type_label": "Article"
+    },
+    {
+      "id": "W4405356579",
+      "doi": "10.1111/acer.15503",
+      "title": "Connectivity of the neuronal network for contextual fear memory is disrupted in a mouse model of third‐trimester binge‐like ethanol exposure",
+      "date": "2024-12-13",
+      "year": 2024,
+      "type": "article",
+      "venue": "Alcoholism Clinical and Experimental Research",
+      "volume": "49",
+      "issue": "2",
+      "pages": "315–331",
+      "authors": [
+        {
+          "name": "Morningstar MD",
+          "self": true
+        },
+        {
+          "name": "Lopez KM",
+          "self": false
+        },
+        {
+          "name": "Mayfield SS",
+          "self": false
+        },
+        {
+          "name": "Almeida‐Mancero RN",
+          "self": false
+        },
+        {
+          "name": "Marquez J",
+          "self": false
+        },
+        {
+          "name": "Flores AM",
+          "self": false
+        },
+        {
+          "name": "Hafer BR",
+          "self": false
+        },
+        {
+          "name": "Estrada E",
+          "self": false
+        },
+        {
+          "name": "Holtzman GA",
+          "self": false
+        },
+        {
+          "name": "Goranson EV",
+          "self": false
+        },
+        {
+          "name": "Reid NM",
+          "self": false
+        },
+        {
+          "name": "Aldrich AR",
+          "self": false
+        },
+        {
+          "name": "Ghatalia DV",
+          "self": false
+        },
+        {
+          "name": "Patel J",
+          "self": false
+        },
+        {
+          "name": "Padilla CM",
+          "self": false
+        },
+        {
+          "name": "Chavez GJ",
+          "self": false
+        },
+        {
+          "name": "Roman JK",
+          "self": false
+        },
+        {
+          "name": "Bhakta PA",
+          "self": false
+        },
+        {
+          "name": "Valenzuela CF",
+          "self": false
+        },
+        {
+          "name": "Linsenbardt DN",
+          "self": false
+        }
+      ],
+      "first_author": true,
+      "co_first": true,
+      "cited_by": 5,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acer.15503",
+      "url": "https://doi.org/10.1111/acer.15503",
+      "preprint": null,
+      "links": [],
+      "type_label": "Article"
+    },
+    {
+      "id": "W4404483553",
+      "doi": "10.1523/eneuro.0379-24.2024",
+      "title": "Impulsive Choices Emerge When the Anterior Cingulate Cortex Fails to Encode Deliberative Strategies",
+      "date": "2024-11-01",
+      "year": 2024,
+      "type": "article",
+      "venue": "eNeuro",
+      "volume": "11",
+      "issue": "11",
+      "pages": "",
+      "authors": [
+        {
+          "name": "White S",
+          "self": false
+        },
+        {
+          "name": "Morningstar MD",
+          "self": true
+        },
+        {
+          "name": "De Falco E",
+          "self": false
+        },
+        {
+          "name": "Linsenbardt DN",
+          "self": false
+        },
+        {
+          "name": "Ma B",
+          "self": false
+        },
+        {
+          "name": "Parks MA",
+          "self": false
+        },
+        {
+          "name": "Czachowski CL",
+          "self": false
+        },
+        {
+          "name": "Lapish CC",
+          "self": false
+        }
+      ],
+      "first_author": false,
+      "co_first": false,
+      "cited_by": 6,
+      "oa_url": "https://www.eneuro.org/content/eneuro/11/11/ENEURO.0379-24.2024.full.pdf",
+      "url": "https://doi.org/10.1523/eneuro.0379-24.2024",
+      "preprint": "https://doi.org/10.1101/2023.06.15.545101",
+      "links": [],
+      "type_label": "Article"
+    },
+    {
+      "id": "W4401698931",
+      "doi": "10.7554/elife.99930",
+      "title": "Neural basis of cognitive control signals in anterior cingulate cortex during delay discounting",
+      "date": "2024-08-19",
+      "year": 2024,
+      "type": "preprint",
+      "venue": "eLife",
+      "volume": null,
+      "issue": null,
+      "pages": "",
+      "authors": [
+        {
+          "name": "Seamans JK",
+          "self": false
+        },
+        {
+          "name": "White S",
+          "self": false
+        },
+        {
+          "name": "Morningstar MD",
+          "self": true
+        },
+        {
+          "name": "Emberly EG",
+          "self": false
+        },
+        {
+          "name": "Linsenbardt DN",
+          "self": false
+        },
+        {
+          "name": "Ma B",
+          "self": false
+        },
+        {
+          "name": "Czachowski CL",
+          "self": false
+        },
+        {
+          "name": "Lapish CC",
+          "self": false
+        }
+      ],
+      "first_author": false,
+      "co_first": false,
+      "cited_by": 4,
+      "oa_url": "https://elifesciences.org/reviewed-preprints/99930.pdf",
+      "url": "https://doi.org/10.7554/elife.99930",
+      "preprint": "https://doi.org/10.1101/2024.06.07.597894",
+      "links": [],
+      "type_label": "Preprint"
+    },
+    {
+      "id": "W4392283196",
+      "doi": "10.1523/eneuro.0385-23.2024",
+      "title": "Proactive Versus Reactive Control Strategies Differentially Mediate Alcohol Drinking in Male Wistars and P Rats",
+      "date": "2024-02-29",
+      "year": 2024,
+      "type": "article",
+      "venue": "eNeuro",
+      "volume": "11",
+      "issue": "3",
+      "pages": "",
+      "authors": [
+        {
+          "name": "Morningstar MD",
+          "self": true
+        },
+        {
+          "name": "Timme NM",
+          "self": false
+        },
+        {
+          "name": "Ma B",
+          "self": false
+        },
+        {
+          "name": "Cornwell E",
+          "self": false
+        },
+        {
+          "name": "Galbari T",
+          "self": false
+        },
+        {
+          "name": "Lapish CC",
+          "self": false
+        }
+      ],
+      "first_author": true,
+      "co_first": false,
+      "cited_by": 0,
+      "oa_url": "https://www.eneuro.org/content/eneuro/early/2024/02/28/ENEURO.0385-23.2024.full.pdf",
+      "url": "https://doi.org/10.1523/eneuro.0385-23.2024",
+      "preprint": "https://doi.org/10.1101/2023.06.08.544260",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/mdmornin/2cap_cognitivecontrol"
+        }
+      ],
+      "type_label": "Article"
+    },
+    {
+      "id": "W4391019989",
+      "doi": "10.1523/jneurosci.1490-23.2023",
+      "title": "Neural activity in anterior insula at drinking onset and licking relates to compulsion-like alcohol consumption",
+      "date": "2024-01-19",
+      "year": 2024,
+      "type": "article",
+      "venue": "Journal of Neuroscience",
+      "volume": "44",
+      "issue": "9",
+      "pages": "e1490232023",
+      "authors": [
+        {
+          "name": "Starski PA",
+          "self": false
+        },
+        {
+          "name": "Morningstar MD",
+          "self": true
+        },
+        {
+          "name": "Katner SN",
+          "self": false
+        },
+        {
+          "name": "Frasier RM",
+          "self": false
+        },
+        {
+          "name": "Sergio TDO",
+          "self": false
+        },
+        {
+          "name": "Wean SE",
+          "self": false
+        },
+        {
+          "name": "Lapish CC",
+          "self": false
+        },
+        {
+          "name": "Hopf FW",
+          "self": false
+        }
+      ],
+      "first_author": false,
+      "co_first": false,
+      "cited_by": 8,
+      "oa_url": "https://doi.org/10.1523/jneurosci.1490-23.2023",
+      "url": "https://doi.org/10.1523/jneurosci.1490-23.2023",
+      "preprint": "https://doi.org/10.1101/2022.05.24.493243",
+      "links": [],
+      "type_label": "Article"
+    },
+    {
+      "id": "W3197647479",
+      "doi": "10.1016/j.neuropharm.2021.108780",
+      "title": "Understanding ethanol's acute effects on medial prefrontal cortex neural activity using state-space approaches",
+      "date": "2021-09-01",
+      "year": 2021,
+      "type": "article",
+      "venue": "Neuropharmacology",
+      "volume": "198",
+      "issue": null,
+      "pages": "108780",
+      "authors": [
+        {
+          "name": "Morningstar MD",
+          "self": true
+        },
+        {
+          "name": "Barnett WH",
+          "self": false
+        },
+        {
+          "name": "Goodlett CR",
+          "self": false
+        },
+        {
+          "name": "Kuznetsov AS",
+          "self": false
+        },
+        {
+          "name": "Lapish CC",
+          "self": false
+        }
+      ],
+      "first_author": true,
+      "co_first": false,
+      "cited_by": 9,
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8488975",
+      "url": "https://doi.org/10.1016/j.neuropharm.2021.108780",
+      "preprint": null,
+      "links": [],
+      "type_label": "Article"
+    },
+    {
+      "id": "W3123963726",
+      "doi": "10.1111/adb.13004",
+      "title": "Impaired cognitive flexibility and heightened urgency are associated with increased alcohol consumption in rodent models of excessive drinking",
+      "date": "2021-01-28",
+      "year": 2021,
+      "type": "article",
+      "venue": "Addiction Biology",
+      "volume": "26",
+      "issue": "5",
+      "pages": "e13004",
+      "authors": [
+        {
+          "name": "De Falco E",
+          "self": false
+        },
+        {
+          "name": "White S",
+          "self": false
+        },
+        {
+          "name": "Morningstar MD",
+          "self": true
+        },
+        {
+          "name": "Ma B",
+          "self": false
+        },
+        {
+          "name": "Nkurunziza LT",
+          "self": false
+        },
+        {
+          "name": "Ahmed‐Dilibe A",
+          "self": false
+        },
+        {
+          "name": "Wellman CL",
+          "self": false
+        },
+        {
+          "name": "Lapish CC",
+          "self": false
+        }
+      ],
+      "first_author": false,
+      "co_first": false,
+      "cited_by": 23,
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9219171",
+      "url": "https://doi.org/10.1111/adb.13004",
+      "preprint": null,
+      "links": [],
+      "type_label": "Article"
+    },
+    {
+      "id": "W3088895838",
+      "doi": "10.1111/acer.14463",
+      "title": "Ethanol Alters Variability, But Not Rate, of Firing in Medial Prefrontal Cortex Neurons of Awake‐Behaving Rats",
+      "date": "2020-09-23",
+      "year": 2020,
+      "type": "article",
+      "venue": "Alcoholism Clinical and Experimental Research",
+      "volume": "44",
+      "issue": "11",
+      "pages": "2225–2238",
+      "authors": [
+        {
+          "name": "Morningstar MD",
+          "self": true
+        },
+        {
+          "name": "Linsenbardt DN",
+          "self": false
+        },
+        {
+          "name": "Lapish CC",
+          "self": false
+        }
+      ],
+      "first_author": true,
+      "co_first": false,
+      "cited_by": 14,
+      "oa_url": "https://scholarworks.indianapolis.iu.edu/bitstreams/0ab1ab09-f95e-4953-867f-8287b619a90c/download",
+      "url": "https://doi.org/10.1111/acer.14463",
+      "preprint": null,
+      "links": [],
+      "type_label": "Article"
+    },
+    {
+      "id": "W2996486143",
+      "doi": "10.25394/pgs.11337296.v1",
+      "title": "Impact of Acute Ethanol Injections on Medial Prefrontal Cortex Neural Activity",
+      "date": "2019-12-11",
+      "year": 2019,
+      "type": "dissertation",
+      "venue": "Purdue e-Pubs",
+      "volume": null,
+      "issue": null,
+      "pages": "",
+      "authors": [
+        {
+          "name": "Morningstar MD",
+          "self": true
+        },
+        {
+          "name": "Lapish CC",
+          "self": false
+        }
+      ],
+      "first_author": true,
+      "co_first": false,
+      "cited_by": 0,
+      "oa_url": "https://figshare.com/articles/thesis/Impact_of_Acute_Ethanol_Injections_on_Medial_Prefrontal_Cortex_Neural_Activity/11337296",
+      "url": "https://doi.org/10.25394/pgs.11337296.v1",
+      "preprint": null,
+      "links": [],
+      "type_label": "Thesis"
+    },
+    {
+      "id": "W2800239107",
+      "doi": "10.1016/j.brainres.2018.05.010",
+      "title": "Social isolation reduces serotonergic fiber density in the inferior colliculus of female, but not male, mice",
+      "date": "2018-05-12",
+      "year": 2018,
+      "type": "article",
+      "venue": "Brain Research",
+      "volume": "1694",
+      "issue": null,
+      "pages": "94–103",
+      "authors": [
+        {
+          "name": "Keesom SM",
+          "self": false
+        },
+        {
+          "name": "Morningstar MD",
+          "self": true
+        },
+        {
+          "name": "Sandlain R",
+          "self": false
+        },
+        {
+          "name": "Wise BM",
+          "self": false
+        },
+        {
+          "name": "Hurley LM",
+          "self": false
+        }
+      ],
+      "first_author": false,
+      "co_first": true,
+      "cited_by": 32,
+      "oa_url": "https://doi.org/10.1016/j.brainres.2018.05.010",
+      "url": "https://doi.org/10.1016/j.brainres.2018.05.010",
+      "preprint": null,
+      "links": [],
+      "type_label": "Article"
+    }
+  ]
+}

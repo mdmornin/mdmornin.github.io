@@ -1,0 +1,14 @@
+{
+  "_help": "Manual corrections applied on top of OpenAlex. DOIs are bare and lower-case (e.g. 10.1111/acer.15503). 'hide': DOIs to drop. 'co_first': DOIs where you are co-first author (adds a dagger). 'links': extra buttons per DOI, e.g. code or data. 'extra': publications OpenAlex is missing, using the same fields as data/publications.json.",
+  "hide": [],
+  "co_first": [
+    "10.1111/acer.15503",
+    "10.1016/j.brainres.2018.05.010"
+  ],
+  "links": {
+    "10.1523/eneuro.0385-23.2024": [
+      {"label": "Code", "url": "https://github.com/mdmornin/2cap_cognitivecontrol"}
+    ]
+  },
+  "extra": []
+}

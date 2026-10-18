@@ -1,43 +1,42 @@
-![Me](assets/Self.jpg)
-## About Me
+# mdmornin.github.io
 
-I am a postdoctoral fellow at the University of New Mexico Health Science Campus and I am interested in how alcohol affects cognition. Broadly, I hope to utilize cutting-edge in vivo electrophysiology recording techniques and analysis methods to further our understanding of how alcohol affects decision making, memory, and spatial navigation. 
+Personal site of Mitchell D. Morningstar, PhD: **https://mdmornin.github.io**
 
-An updated CV can be found here [here](https://github.com/mdmornin/mdmornin.github.io/blob/master/morningstarCV_2025.pdf) and an NIH Biosketch can be found [here](https://github.com/mdmornin/mitchellmorningstar.github.io/blob/master/Morningstar_NIHBiosketch.pdf).
+A static, single-page site (no build step) served by GitHub Pages from `master`.
 
+## How publications update
 
-## Papers
-[Curriculum Vitae](https://github.com/mdmornin/mdmornin.github.io/blob/master/morningstarCV_2025.pdf)
+`.github/workflows/update-publications.yml` runs every Monday (and on demand from the
+**Actions** tab → *Update publications* → *Run workflow*). It runs
+`scripts/update_publications.py`, which:
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=1_xcH-sAAAAJ)
+1. looks up ORCID `0000-0002-3847-192X` on [OpenAlex](https://openalex.org/authors/orcid:0000-0002-3847-192X),
+2. drops peer-review reports, supplementary files and meeting abstracts, and folds each
+   preprint into its published paper (shown as a *Preprint* link),
+3. writes `data/publications.json` and rewrites the publication list and metrics in
+   `index.html` between the `<!-- PUBLICATIONS:START/END -->` and `<!-- METRICS:START/END -->` markers,
+4. commits the result if anything changed.
 
-**Morningstar, M. D.** et al. Large-scale in vivo electrophysiology analysis reveals opposing thalamic and hippocampal excitability after third-trimester-equivalent alcohol exposure in mice. Journal of Neurophysiology 136, 1171–1182 (2026). https://doi.org/10.1152/jn.00189.2026
+Run it locally with `python scripts/update_publications.py` (standard library only).
 
-Bryant, K. G., Swygart, D., Yin, Y., Bauer, M. R., **Morningstar, M. D.**, Timme, N. M., Barnett, W. H., McGonigle, C. E., Engleman, E. A., Sheets, P. L., & Lapish, C. C. (2025). Acute alcohol in prefrontal cortex is characterized by enhanced inhibition that transitions to excitation. iScience, 28(7), 112920. https://doi.org/10.1016/j.isci.2025.112920
+### Fixing what OpenAlex gets wrong
 
-Ardinger, C. E., **Morningstar, M. D.**, Lapish, C. C., & Linsenbardt, D. N. (2025). Repeated alcohol drinking in mice is associated with bidirectional alterations in corticostriatal coherence. Neuropharmacology, 277, 110522. Advance online publication. https://doi.org/10.1016/j.neuropharm.2025.110522 
+Edit `data/publications_overrides.json` (DOIs bare and lower-case); pushing it re-runs the workflow.
 
-**Morningstar, M. D.** +, Lopez, K. M., Mayfield, S. S., Almeida-Mancero, R. N., Marquez, J., Flores, A. M., Hafer, B. R., Estrada, E., Holtzman, G. A., Goranson, E. V., Reid, N. M., Aldrich, A. R., Ghatalia, D. V., Patel, J. R., Padilla, C. M., Chavez, G. J., Kelly-Roman, J., Bhakta, P. A., Valenzuela, C. F., & Linsenbardt, D. N. (2024). Connectivity of the neuronal network for contextual fear memory is disrupted in a mouse model of third-trimester binge-like ethanol exposure. Alcohol, clinical & experimental research, 10.1111/acer.15503.  
+| key        | use                                                                 |
+|------------|---------------------------------------------------------------------|
+| `hide`     | DOIs to leave off the site                                          |
+| `co_first` | DOIs where you are co-first author (adds †)                         |
+| `links`    | extra buttons for a paper, e.g. `{"label": "Code", "url": "..."}`   |
+| `extra`    | items OpenAlex is missing, in the same shape as `data/publications.json` |
 
-White, S. M., **Morningstar, M. D.** , De Falco, E., Linsenbardt, D. N., Ma, B., Parks, M. A., Czachowski, C. L., & Lapish, C. C. (2024). Impulsive Choices Emerge When the Anterior Cingulate Cortex Fails to Encode Deliberative Strategies. eNeuro, 11(11), ENEURO.0379-24.2024. 
+Keeping your ORCID record up to date is the most reliable way to make new papers appear.
 
-**Morningstar, M. D.** , Timme, N. M., Ma, B., Cornwell, E., Galbari, T., & Lapish, C. C. (2024). Proactive Versus Reactive Control Strategies Differentially Mediate Alcohol Drinking in Male Wistars and P Rats. eNeuro, 11(3), ENEURO.0385-23.2024. https://doi.org/10.1523/ENEURO.0385-23.2024 
+## Editing everything else
 
-Starski, P., **Morningstar, M. D.** , Katner, S. N., Frasier, R. M., De Oliveira Sergio, T., Wean, S., Lapish, C. C., & Hopf, F. W. (2024). Neural Activity in the Anterior Insula at Drinking Onset and Licking Relates to Compulsion-Like Alcohol Consumption. The Journal of neuroscience : the official journal of the Society for Neuroscience, 44(9), e1490232023. 
+All other content (bio, research themes, talks, experience) is plain HTML in `index.html`;
+styles are in `assets/css/style.css`. When you replace the CV, update the `morningstarCV_2025.pdf`
+links in `index.html` and `sitemap.xml`.
 
-**Morningstar, M. D.**, Barnett, W. H., Goodlett, C. R., Kuznetsov, A., & Lapish, C. C. (2021). Understanding ethanol's acute effects on medial prefrontal cortex neural activity using state-space approaches. _Neuropharmacology_, 198, 108780. 
-
-De Falco, E, White, SM, **Morningstar, M.D.**, et al. (2021), Impaired cognitive flexibility and heightened urgency are associated with increased alcohol consumption in rodent models of excessive drinking. _Addiction Biology_. 
-
-**Morningstar, M.D.**, Linsenbardt, D.N. and Lapish, C.C. (2020), Ethanol Alters Variability, But Not Rate, of Firing in Medial Prefrontal Cortex Neurons of Awake‐Behaving Rats. _Alcohol Clin Exp Res._ 
-
-Keesom SM, **Morningstar M.D.**, Sandlain R, Wise BM, Hurley LM. (2018). Social isolation reduces serotonergic fiber density in the inferior colliculus of female, but not male, mice. _Brain Research._ 
-
-## Contact me
-[Twitter](https://twitter.com/neuromorning)
-
-**Email:** MMorningstar AT salud DOT unm DOT edu 
-
-[ResearchGate](https://www.researchgate.net/profile/Mitchell-Morningstar)
-
-[LinkedIn](https://www.linkedin.com/in/mitchellmorningstar/)
+Optional repository secrets: `OPENALEX_API_KEY` (free key from openalex.org/settings/api) and
+`OPENALEX_MAILTO`.
