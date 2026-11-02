@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-11-02",
   "source": "OpenAlex",
   "author": {
     "orcid": "0000-0002-3847-192X",
@@ -485,7 +485,7 @@
       "title": "Understanding ethanol's acute effects on medial prefrontal cortex neural activity using state-space approaches",
       "date": "2021-09-01",
       "year": 2021,
-      "type": "article",
+      "type": "review",
       "venue": "Neuropharmacology",
       "volume": "198",
       "issue": null,
@@ -519,7 +519,7 @@
       "url": "https://doi.org/10.1016/j.neuropharm.2021.108780",
       "preprint": null,
       "links": [],
-      "type_label": "Article"
+      "type_label": "Review"
     },
     {
       "id": "W3123963726",
@@ -603,7 +603,7 @@
       "first_author": true,
       "co_first": false,
       "cited_by": 14,
-      "oa_url": "https://scholarworks.indianapolis.iu.edu/bitstreams/0ab1ab09-f95e-4953-867f-8287b619a90c/download",
+      "oa_url": "http://europepmc.org/pmc/articles/PMC7680402",
       "url": "https://doi.org/10.1111/acer.14463",
       "preprint": null,
       "links": [],
