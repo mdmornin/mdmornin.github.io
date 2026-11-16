@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-16",
   "source": "OpenAlex",
   "author": {
     "orcid": "0000-0002-3847-192X",
@@ -9,9 +9,9 @@
     "publications": 11,
     "preprints": 1,
     "first_author": 6,
-    "citations": 117,
+    "citations": 129,
     "h_index": 6,
-    "i10_index": 4
+    "i10_index": 5
   },
   "publications": [
     {
@@ -472,7 +472,7 @@
       ],
       "first_author": false,
       "co_first": false,
-      "cited_by": 8,
+      "cited_by": 10,
       "oa_url": "https://doi.org/10.1523/jneurosci.1490-23.2023",
       "url": "https://doi.org/10.1523/jneurosci.1490-23.2023",
       "preprint": null,
@@ -515,7 +515,7 @@
       "first_author": true,
       "co_first": false,
       "cited_by": 10,
-      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8488975",
+      "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8488975/",
       "url": "https://doi.org/10.1016/j.neuropharm.2021.108780",
       "preprint": null,
       "links": [],
@@ -568,8 +568,8 @@
       ],
       "first_author": false,
       "co_first": false,
-      "cited_by": 23,
-      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9219171",
+      "cited_by": 25,
+      "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9219171/",
       "url": "https://doi.org/10.1111/adb.13004",
       "preprint": null,
       "links": [],
@@ -674,8 +674,8 @@
       ],
       "first_author": false,
       "co_first": true,
-      "cited_by": 32,
-      "oa_url": "https://doi.org/10.1016/j.brainres.2018.05.010",
+      "cited_by": 33,
+      "oa_url": "https://www.sciencedirect.com/science/article/am/pii/S0006899318302567",
       "url": "https://doi.org/10.1016/j.brainres.2018.05.010",
       "preprint": null,
       "links": [],
